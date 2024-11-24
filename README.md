@@ -1,6 +1,6 @@
-# 32Bit-ALU_Synthesis
+# Exp-5: 32Bit-ALU_Synthesis
 
-## Aim:
+## Aim :
 
 Synthesize 32 Bit ALU design using Constraints and analyse area and Power reports.
 
@@ -37,9 +37,19 @@ used.
 
 #### Synthesis RTL Schematic :
 
+![Screenshot (163)](https://github.com/user-attachments/assets/72c5e803-7de6-4507-8b96-30c853b7ab60)
+
+
+
 #### Area report:
 
+![Screenshot (175)](https://github.com/user-attachments/assets/2fd05f3a-2d57-4f7b-9eb1-5f59e0bb8389)
+
+
 #### Power Report:
+
+![Screenshot (174)](https://github.com/user-attachments/assets/e01acf11-42d3-4913-b3b1-33a3aef842be)
+
 
 #### Result: 
 
